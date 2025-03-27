@@ -37,7 +37,7 @@ Galaxy is powered by the people who use, develop, and administrate it, regardles
 Registration is free. We recommend to register as soon as possible to secure your spot for different events as well as helping us to organize the event better. The traveling, accommodation, and subsistence expenses will be partially covered by the organizers for a limited number of ELIXIR participants. The organizers will contact you for further clarification.
 
 <div class="row justify-content-center">
-  <a class="btn w-25 btn-dark" href="https://docs.google.com/forms/d/19pQ3c906y1GxvtzEmsEXcXSk31x-5HQje5WlnlRdCOI/" role="button" target="_blank">Register now</a>
+  <a class="btn w-25 btn-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSdwFwcf_Om7WbqFB5Uaqj-53eAx-XvdoYXrhiQMlb9ka-OUNw/viewform" role="button" target="_blank">Register now</a>
 </div>
 
 # Schedule
